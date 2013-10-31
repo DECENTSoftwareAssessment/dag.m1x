@@ -15,7 +15,7 @@ Workflow {
 		scanClassPath  = true
 		platformUri = "${runtimeProject}/.."
 		registerGeneratedEPackage = "DAG.DAGPackage"
-		registerGenModelFile = "platform:/resource/dag.m1/model/DAG.genmodel"
+		registerGenModelFile = "platform:/resource/DECENT.Meta/model/DAG.genmodel"
 	}
 
 	component = DirectoryCleaner {
